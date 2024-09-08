@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @navya0776
-- 👀 I’m interested in literature and tech and maths
+- 👀 I’m interested in literature, tech and maths
 - 🌱 I’m currently learning web development
 
 
